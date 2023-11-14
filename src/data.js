@@ -52,7 +52,7 @@ export const navigation = [
 ];
 
 export const hero = {
-  title: 'Creative Home Simpify your Furniture',
+  title: 'Moulding your Dreams into Reality',
   subtitle:
     'Do i have consent to record this meeting gain locaion, root-and-branch, review, nor game plan who’s the goto',
   buttonText: 'Shop Now',
